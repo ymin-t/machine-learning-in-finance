@@ -4,4 +4,4 @@
 1,2,3 Written
 4,5 Codes
 
-PLease try first before looking at solution
+Please try first before looking at solution
